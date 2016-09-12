@@ -1,0 +1,17 @@
+{
+    "name": "vitr/laravel-jvzoo",
+    "description": "JVZoo IPN for Laravel 5.2",
+    "authors": [
+        {
+            "name": "vitr",
+            "email": "vitdotonline@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Vitr\\Jvzoo\\": "src/"
+        }
+    },
+    "require": {}
+}
