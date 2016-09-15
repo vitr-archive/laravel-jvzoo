@@ -1,5 +1,6 @@
 <?php namespace Vitr\Jvzoo;
 
+use Event;
 use App\Http\Controllers\Controller;
 use App\User;
 
